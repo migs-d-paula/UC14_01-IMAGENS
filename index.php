@@ -21,5 +21,17 @@
             <p> depois de passarem por diversos conteudos irão se formar finalmente </p>
         </div>
     </div>
+
+    <div class="noticia">
+        <div class="noticia-imagem">
+            <img src="images/carro.png" alt="">
+        </div>
+        <div class="noticia-titulo">
+            <p> Carros estao tomando vida em 2023 </p>
+        </div>
+        <div class="noticia-descricao">
+            <p> Os carros estao ganhando vida em 2023, tudo começou com herbie e o cometa Harlem. </p>
+        </div>
+    </div>
 </body>
 </html>
